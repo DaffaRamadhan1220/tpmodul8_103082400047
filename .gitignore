@@ -1,0 +1,99 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# dotenv
+.env
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/repositories.config
+
+# Compiled Java / Python / etc.
+
+# Node.js / JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled Python
+__pycache__/
+*.py[cod]
+
+# Build results of other tools
+*.dll
+*.exe
+*.exe.config
+*.exp
+*.ilk
+*.lib
+*.log
+*.obj
+*.pdb
+*.psess
+*.vcxproj.filters
+*.vcxproj.user
+*.Cache
+*.cache
+*.tmp
+*.tmp_proj
+*.bak
+*.pidb
+*.vspscc
+*.vssscc
+*.scc
+*.pidb
+*.log
+*.pidb
+
+# Unit test results
+TestResult*.xml
+*.trx
+
+# Backup files
+*~
+*.[0-9]
+
+# Project specific
+covid_config.json
+appsettings.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
